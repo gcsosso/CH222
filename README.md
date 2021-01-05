@@ -1,2 +1,2 @@
-# CH3G0
-CH3G0:Extended Laboratory
+# CH222
+CH222: Molecular Dynamics
