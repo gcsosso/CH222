@@ -1,0 +1,5 @@
+conda install notebook numpy matplotlib pandas bokeh numpy scipy pillow ipywidgets seaborn
+conda install -c conda-forge openbabel hoomd ase
+conda install -c ambermd pytraj
+conda install -c conda-forge nglview
+conda install jsonschema more-itertools
